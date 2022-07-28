@@ -1,0 +1,99 @@
+ul li {
+    color: black;
+    font-size: 15px;
+}
+.reg {
+    color: brown;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 30px;
+}
+.regg4{
+    background-color: rgba(248, 160, 164, 0.582);
+    font-size: medium;
+    /* background-image: url('WhatsApp\ Image\ 2022-07-27\ at\ 11.38.43\ PM.jpeg'); */
+    
+}
+reg.form-control {
+    width: 300px;
+    height: 30px;
+}
+.regg2 {
+    text-align: center;
+    padding-top: 50px;
+}
+.regg3 {
+    text-align: center;
+}
+regg3.form-control{
+    margin-left: 415px;
+}
+    .dep {
+        text-align: center;
+    }
+    dep.form-control{
+        margin-left: 415px;
+    }
+    .acc{
+        text-align: center;
+    }
+    .accde{
+        text-align: center;
+        
+        /* float: left; */
+        font-size:large;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    h1{
+        text-align: center;
+        color: brown;
+        padding-top: 80px;
+    }
+    .log{
+        background-color: rgba(248, 136, 136, 0.712);
+    }
+    .dep{
+        background-color: rgba(189, 59, 59, 0.452);
+    }
+    .accno{
+        text-align: center;
+        font-size: larger;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .logimg{
+        height: 300px;
+        padding-left: 20px;
+
+    }
+    @media screen and (max-width:480px) {
+         .logimg{
+            height: 50px;
+            max-width: 0px;
+            padding-left: 0px;
+            
+        }
+        form{
+            padding-top: 50px;
+        }
+        
+    }
+    .logimg2{
+        height: 300px;
+        padding-left: 20px;
+        padding-top: 30px;
+
+    }
+    @media screen and (max-width:480px) {
+         .logimg{
+            height: 50px;
+            max-width: 0px;
+            padding-left: 0px;
+            
+        }
+        form{
+            padding-top: 50px;
+        }
+        
+    }
+
